@@ -237,7 +237,7 @@ void TampilkanProdi(int jurusan, int fakultas) {
             } else if (jurusan == 5) {
             	cout << "1. D3 Teknik Survey dan Pemetaan\n";
             	cout << "2. S1 Teknik Geologi\n";
-            	cout << "3. S1 Teknik Geodise\n";
+            	cout << "3. S1 Teknik Geodisi\n";
 			}else if (jurusan == 6) { 
                 cout << "1. S1 Teknik Geofisika\n";
             }else if (jurusan == 7) { 
